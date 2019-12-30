@@ -1,0 +1,47 @@
+.modal-backdrop.fade{
+    /* opacity: 0.5; */
+}
+.modal-open{
+    overflow: hidden;
+}
+
+.btn-danger{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    border: none;
+    background: rgb(214, 29, 106);
+    margin: auto;
+}
+.btn-danger:hover{
+    background: rgb(224, 53, 125);
+}
+.btn-danger:active{
+    background: rgb(224, 53, 125);
+}
+.btn-danger:visited{
+    background: rgb(224, 53, 125);
+}
+.btn-danger:focus{
+    background: rgb(224, 53, 125);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.btn-warning{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    border: none;
+    background: rgb(221, 146, 26);
+    margin: auto;
+    color: #fff;
+}
+.btn-warning:hover{
+    background: rgb(209, 108, 41);
+}
+.btn-warning:active{
+    background: rgb(209, 108, 41);
+}
+.btn-warning:visited{
+    background: rgb(209, 108, 41);
+}
+.btn-warning:focus{
+    background: rgb(209, 108, 41);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}

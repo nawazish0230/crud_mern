@@ -1,0 +1,26 @@
+.form-control{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+.btn-primary{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    border: none;
+    background: rgb(193, 22, 223);
+    margin: auto;
+    margin-left: 20px;
+}
+.btn-primary:hover{
+    background: rgb(207, 74, 231);
+}
+.btn-primary:active{
+    background: rgb(207, 74, 231);
+}
+.btn-primary:visited{
+    background: rgb(207, 74, 231);
+}
+.btn-primary:target{
+    background: rgb(207, 74, 231);
+}
+.btn-primary:focus{
+    background: rgb(207, 74, 231);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
